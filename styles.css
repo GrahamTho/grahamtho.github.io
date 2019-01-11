@@ -2,11 +2,14 @@
   background-color: #009933;
   position: fixed;
   width: 100%;
-  margin-top: 0px;
+  margin-left: 0px;
 }
-#about {
-  text-align: center;
+#one {
+  
 }
 body {
-  background-color: #3333ff;
+  color: #3333ff;
+  font-size: 2em;
+  font-family: Georgia, serif;
+  text-align: center;
 }
