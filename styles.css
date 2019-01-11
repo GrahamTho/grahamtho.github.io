@@ -1,15 +1,21 @@
 .topbar {
-  background-color: #009933;
+  background-color: #6bbc86;
   position: fixed;
   width: 100%;
   margin-left: 0px;
 }
-#one {
-  
+.about {
+  left: 30%;
+}
+.hobbies {
+  left: 50%;
+}
+.pets {
+  left: 70%;
 }
 body {
-  color: #3333ff;
-  font-size: 2em;
+  background-color: #362451;
+  font-size: 1.5em;
   font-family: Georgia, serif;
   text-align: center;
 }
