@@ -6,12 +6,15 @@
 }
 .about {
   left: 30%;
+  background-color: red;
 }
 .hobbies {
   left: 50%;
+  background-color: yellow;
 }
 .pets {
   left: 70%;
+  background-color: blue;
 }
 body {
   background-color: #362451;
