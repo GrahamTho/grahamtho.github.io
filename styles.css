@@ -1,8 +1,7 @@
-.topbar {
+.container {
   background-color: #6bbc86;
   position: fixed;
   width: 100%;
-  margin-left: 0px;
 }
 .about {
   left: 30%;
