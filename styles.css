@@ -1,8 +1,13 @@
 .topbar {
+  background-color: #009933;
+  position: fixed;
+  width: 100%;
+  margin-top: 0px;
+}
+.topbar #one {
   text-align: center;
   text-color: #ff0080;
   background-color: #ff6666;
-  margin-color: #009933;
 }
 
 #about {
